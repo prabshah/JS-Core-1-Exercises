@@ -16,3 +16,5 @@ Should return:
 
 'Found the needle at position 2'
 */
+
+console.log('======================= CHALLENGE 03 ==============================');
