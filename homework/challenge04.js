@@ -21,3 +21,11 @@ function shortcut(str) {
 
 console.log(shortcut('I am called Prbesh Shah.'));
 console.log(shortcut('Lorem ipsum dolor sit amet, consectetuer adipiscing elit, pretium quis, sem. Nulla consequat massa quis enim.'));
+
+// shorter version
+
+function shortcutShort(str) {
+  return str.replace(/a|e|i|o|u/gi, '');
+}
+console.log(shortcutShort('I am called Prbesh Shah.'));
+console.log(shortcutShort('Lorem ipsum dolor sit amet, consectetuer adipiscing elit, pretium quis, sem. Nulla consequat massa quis enim.'));

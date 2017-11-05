@@ -107,5 +107,5 @@ console.log(charAppend('elo', 5, 'h'));
 console.log(charAppend('-MAN', 10, 'X'));
 console.log(charAppend('I MY FRIENDS!', 5, 'H'));
 
-console.log('====================== Solution of question 7 ====================');
+console.log('====================== Solution of question 8 ====================');
 
